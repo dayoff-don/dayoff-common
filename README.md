@@ -7,7 +7,7 @@ ISSUE 작성 방법
 ``` md5
 ### 필요 기능 
 
-[화면기획서](https://drive.google.com/file/d/1wUmFB76Tg1KG8EArtQy4Soflfe5tFe4G/view?usp=sharing) [페이지 명시]
+[공유파일명](공유파일 링크) [페이지 명시]
 
 Front-End
 - 구현해야하는 기능1
